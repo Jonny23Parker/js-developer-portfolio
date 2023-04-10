@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/js.png"
       }
 
     ],
