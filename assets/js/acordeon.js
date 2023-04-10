@@ -1,9 +1,9 @@
 
 const acordeonTrigger = document.querySelectorAll('.acordeon .trigger')
 
-acordeonTrigger.forEach((trigger) =>) {
+acordeonTrigger.forEach((trigger) => { 
     trigger.addEventListener('click', (e) => {
-        const acordeon = trigegr.parentElement
+        const acordeon = trigger.parentElement
         const isOpen = acordeon.classList.contains('open')
         
         if(isOpen){
@@ -12,4 +12,5 @@ acordeonTrigger.forEach((trigger) =>) {
             acordeon.classList.add('open')
 
         }
-}
+    });
+});
