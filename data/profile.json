@@ -1,0 +1,60 @@
+{
+  "name": "Jonatas de Siqueira",
+  "photo": "https://avatars.githubusercontent.com/u/101059784?v=4",
+  "job": "Open to Work",
+  "location": "Taubate - SP",
+  "phone": "+55 (12) 99209-1781",
+  "email": "jonatas.d.siqueira@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/js.png"
+      }
+
+    ],
+    "softSkills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Liderança",
+      "Atitude Positiva",
+      "Trabalho em Equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+
+  ],
+  "portfolio": [
+    {
+      "name": "Desenvolvimento realizado na DIO para criações diversas, para montagem do portfolio",
+      "url": "https://github.com/Jonny23Parker?tab=repositories",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Studio Cri8",
+      "period": "2003 - até o momento",
+      "description": "Criando arte tradicional para o mercado nacional e europeu."
+    },
+    {
+      "name": "LG Eletronics",
+      "period": "jan 2021 - jun 2021",
+      "description": "Uma imersão dentro de uma grande empresa, foi bom cada minuto do contrato."
+    },
+    {
+      "name": "Coordenador Administrativo",
+      "period": "2017 - 2018",
+      "description": "Foram momentos de realizações fazer parte da mudança pessoal e profissional de varias pessoas em um curto espaço de tempo"
+    }
+  ]
+}
