@@ -12,6 +12,10 @@
         "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/Jonny23Parker/js-developer-portfolio/main/data/imgs/js.png"
       }
